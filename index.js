@@ -9,6 +9,6 @@ const func = () => {
     y = 30;
 
     console.log(sum(x, y)); // 50
-    };
+};
 
-    func();
+func();
